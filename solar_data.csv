@@ -1,0 +1,547 @@
+"date","installation","expected_kwh","actual_kwh"
+2024-01-01,"Carport Beta (75 kW)",231,230.6
+2024-01-01,"Ground Mount Gamma (100 kW)",313.3,290.9
+2024-01-01,"Rooftop Alpha (50 kW)",160.7,159
+2024-01-02,"Carport Beta (75 kW)",231.7,230.4
+2024-01-02,"Ground Mount Gamma (100 kW)",321.3,177.4
+2024-01-02,"Rooftop Alpha (50 kW)",162.1,158.7
+2024-01-03,"Carport Beta (75 kW)",244.9,223
+2024-01-03,"Ground Mount Gamma (100 kW)",317.1,173
+2024-01-03,"Rooftop Alpha (50 kW)",154.9,152.5
+2024-01-04,"Carport Beta (75 kW)",245.8,246.9
+2024-01-04,"Ground Mount Gamma (100 kW)",313.1,287.6
+2024-01-04,"Rooftop Alpha (50 kW)",162.8,168.9
+2024-01-05,"Carport Beta (75 kW)",244.6,228.8
+2024-01-05,"Ground Mount Gamma (100 kW)",329.5,323.7
+2024-01-05,"Rooftop Alpha (50 kW)",161.5,118.7
+2024-01-06,"Carport Beta (75 kW)",246,231.2
+2024-01-06,"Ground Mount Gamma (100 kW)",310.3,188.3
+2024-01-06,"Rooftop Alpha (50 kW)",161,88.8
+2024-01-07,"Carport Beta (75 kW)",252.3,158.8
+2024-01-07,"Ground Mount Gamma (100 kW)",328.7,325.3
+2024-01-07,"Rooftop Alpha (50 kW)",164.8,147.6
+2024-01-08,"Carport Beta (75 kW)",245.7,231.4
+2024-01-08,"Ground Mount Gamma (100 kW)",314,299.4
+2024-01-08,"Rooftop Alpha (50 kW)",158,147.7
+2024-01-09,"Carport Beta (75 kW)",240.1,222.8
+2024-01-09,"Ground Mount Gamma (100 kW)",337.2,348.2
+2024-01-09,"Rooftop Alpha (50 kW)",165.9,167.4
+2024-01-10,"Carport Beta (75 kW)",240,221.8
+2024-01-10,"Ground Mount Gamma (100 kW)",338.2,352
+2024-01-10,"Rooftop Alpha (50 kW)",167.5,87.8
+2024-01-11,"Carport Beta (75 kW)",254.6,225.2
+2024-01-11,"Ground Mount Gamma (100 kW)",323,318.7
+2024-01-11,"Rooftop Alpha (50 kW)",165.3,165.4
+2024-01-12,"Carport Beta (75 kW)",260,257.8
+2024-01-12,"Ground Mount Gamma (100 kW)",342.2,306
+2024-01-12,"Rooftop Alpha (50 kW)",169.8,177.3
+2024-01-13,"Carport Beta (75 kW)",261.6,263.4
+2024-01-13,"Ground Mount Gamma (100 kW)",334.5,319.7
+2024-01-13,"Rooftop Alpha (50 kW)",173.8,158.9
+2024-01-14,"Carport Beta (75 kW)",245.9,242.8
+2024-01-14,"Ground Mount Gamma (100 kW)",331.2,168.1
+2024-01-14,"Rooftop Alpha (50 kW)",165.7,148.9
+2024-01-15,"Carport Beta (75 kW)",257.4,180.3
+2024-01-15,"Ground Mount Gamma (100 kW)",342.1,358.9
+2024-01-15,"Rooftop Alpha (50 kW)",169.5,150.8
+2024-01-16,"Carport Beta (75 kW)",263.9,255.9
+2024-01-16,"Ground Mount Gamma (100 kW)",347.1,334.9
+2024-01-16,"Rooftop Alpha (50 kW)",177.1,180.8
+2024-01-17,"Carport Beta (75 kW)",250.7,224.4
+2024-01-17,"Ground Mount Gamma (100 kW)",347.1,243.2
+2024-01-17,"Rooftop Alpha (50 kW)",178.6,174.8
+2024-01-18,"Carport Beta (75 kW)",256.9,184.4
+2024-01-18,"Ground Mount Gamma (100 kW)",351,125
+2024-01-18,"Rooftop Alpha (50 kW)",167.8,161.1
+2024-01-19,"Carport Beta (75 kW)",254,223.6
+2024-01-19,"Ground Mount Gamma (100 kW)",341.1,309.3
+2024-01-19,"Rooftop Alpha (50 kW)",173.8,99.8
+2024-01-20,"Carport Beta (75 kW)",261.6,261.6
+2024-01-20,"Ground Mount Gamma (100 kW)",363,338.9
+2024-01-20,"Rooftop Alpha (50 kW)",176,163.3
+2024-01-21,"Carport Beta (75 kW)",264,189.3
+2024-01-21,"Ground Mount Gamma (100 kW)",364.5,339.1
+2024-01-21,"Rooftop Alpha (50 kW)",181.9,125.8
+2024-01-22,"Carport Beta (75 kW)",275.4,248.6
+2024-01-22,"Ground Mount Gamma (100 kW)",360.1,358.5
+2024-01-22,"Rooftop Alpha (50 kW)",172.1,175.4
+2024-01-23,"Carport Beta (75 kW)",276,271
+2024-01-23,"Ground Mount Gamma (100 kW)",350,227.7
+2024-01-23,"Rooftop Alpha (50 kW)",185.2,166.1
+2024-01-24,"Carport Beta (75 kW)",278.4,262
+2024-01-24,"Ground Mount Gamma (100 kW)",372.2,328.8
+2024-01-24,"Rooftop Alpha (50 kW)",185.7,193.8
+2024-01-25,"Carport Beta (75 kW)",276.4,151.1
+2024-01-25,"Ground Mount Gamma (100 kW)",347.7,348.9
+2024-01-25,"Rooftop Alpha (50 kW)",174.3,49.8
+2024-01-26,"Carport Beta (75 kW)",263.1,199.5
+2024-01-26,"Ground Mount Gamma (100 kW)",365.6,342.1
+2024-01-26,"Rooftop Alpha (50 kW)",181.6,162.5
+2024-01-27,"Carport Beta (75 kW)",263,267.2
+2024-01-27,"Ground Mount Gamma (100 kW)",369.3,366.5
+2024-01-27,"Rooftop Alpha (50 kW)",180.8,185.6
+2024-01-28,"Carport Beta (75 kW)",271.4,172.2
+2024-01-28,"Ground Mount Gamma (100 kW)",374.8,262.5
+2024-01-28,"Rooftop Alpha (50 kW)",189.4,183.6
+2024-01-29,"Carport Beta (75 kW)",270.9,260.6
+2024-01-29,"Ground Mount Gamma (100 kW)",376.1,360.2
+2024-01-29,"Rooftop Alpha (50 kW)",183.6,182.1
+2024-01-30,"Carport Beta (75 kW)",284.7,184
+2024-01-30,"Ground Mount Gamma (100 kW)",381,373.2
+2024-01-30,"Rooftop Alpha (50 kW)",190.4,175
+2024-01-31,"Carport Beta (75 kW)",279.6,252.4
+2024-01-31,"Ground Mount Gamma (100 kW)",382.7,349.5
+2024-01-31,"Rooftop Alpha (50 kW)",190,190.5
+2024-02-01,"Carport Beta (75 kW)",281.6,290.6
+2024-02-01,"Ground Mount Gamma (100 kW)",374.1,345.7
+2024-02-01,"Rooftop Alpha (50 kW)",192.2,185.2
+2024-02-02,"Carport Beta (75 kW)",273.1,137.4
+2024-02-02,"Ground Mount Gamma (100 kW)",367.1,377.4
+2024-02-02,"Rooftop Alpha (50 kW)",186.8,195
+2024-02-03,"Carport Beta (75 kW)",280.8,182.5
+2024-02-03,"Ground Mount Gamma (100 kW)",393.7,354.4
+2024-02-03,"Rooftop Alpha (50 kW)",192.3,124.7
+2024-02-04,"Carport Beta (75 kW)",291.7,301.5
+2024-02-04,"Ground Mount Gamma (100 kW)",378.1,385.5
+2024-02-04,"Rooftop Alpha (50 kW)",183,178.2
+2024-02-05,"Carport Beta (75 kW)",284.7,273.6
+2024-02-05,"Ground Mount Gamma (100 kW)",391.3,382.4
+2024-02-05,"Rooftop Alpha (50 kW)",196.7,175.6
+2024-02-06,"Carport Beta (75 kW)",277.5,247.4
+2024-02-06,"Ground Mount Gamma (100 kW)",372.6,342.7
+2024-02-06,"Rooftop Alpha (50 kW)",185,163.5
+2024-02-07,"Carport Beta (75 kW)",295.5,296.2
+2024-02-07,"Ground Mount Gamma (100 kW)",399.4,390.4
+2024-02-07,"Rooftop Alpha (50 kW)",189.1,126.3
+2024-02-08,"Carport Beta (75 kW)",293.2,271.6
+2024-02-08,"Ground Mount Gamma (100 kW)",398.6,264.3
+2024-02-08,"Rooftop Alpha (50 kW)",200.9,198.3
+2024-02-09,"Carport Beta (75 kW)",283.3,265
+2024-02-09,"Ground Mount Gamma (100 kW)",395.3,354.8
+2024-02-09,"Rooftop Alpha (50 kW)",197.4,187.8
+2024-02-10,"Carport Beta (75 kW)",291.4,275.5
+2024-02-10,"Ground Mount Gamma (100 kW)",397.5,395.3
+2024-02-10,"Rooftop Alpha (50 kW)",194.7,200.4
+2024-02-11,"Carport Beta (75 kW)",294.4,275.6
+2024-02-11,"Ground Mount Gamma (100 kW)",408,366.9
+2024-02-11,"Rooftop Alpha (50 kW)",196.6,63.9
+2024-02-12,"Carport Beta (75 kW)",293.5,263.2
+2024-02-12,"Ground Mount Gamma (100 kW)",407.4,289.5
+2024-02-12,"Rooftop Alpha (50 kW)",191.3,200.2
+2024-02-13,"Carport Beta (75 kW)",305.2,298.7
+2024-02-13,"Ground Mount Gamma (100 kW)",399.3,378.5
+2024-02-13,"Rooftop Alpha (50 kW)",207.2,142.1
+2024-02-14,"Carport Beta (75 kW)",298.3,300.9
+2024-02-14,"Ground Mount Gamma (100 kW)",408.6,121.4
+2024-02-14,"Rooftop Alpha (50 kW)",199.5,178.4
+2024-02-15,"Carport Beta (75 kW)",305.3,295.5
+2024-02-15,"Ground Mount Gamma (100 kW)",412.3,396.9
+2024-02-15,"Rooftop Alpha (50 kW)",209,197.6
+2024-02-16,"Carport Beta (75 kW)",307,284.5
+2024-02-16,"Ground Mount Gamma (100 kW)",397.9,358.7
+2024-02-16,"Rooftop Alpha (50 kW)",208.9,188.3
+2024-02-17,"Carport Beta (75 kW)",312.8,298.9
+2024-02-17,"Ground Mount Gamma (100 kW)",414.2,423.5
+2024-02-17,"Rooftop Alpha (50 kW)",205.9,201.5
+2024-02-18,"Carport Beta (75 kW)",310.7,320.7
+2024-02-18,"Ground Mount Gamma (100 kW)",411.6,417.4
+2024-02-18,"Rooftop Alpha (50 kW)",212.3,195.5
+2024-02-19,"Carport Beta (75 kW)",312.8,68.5
+2024-02-19,"Ground Mount Gamma (100 kW)",424.1,421
+2024-02-19,"Rooftop Alpha (50 kW)",207.6,208.2
+2024-02-20,"Carport Beta (75 kW)",307.7,298
+2024-02-20,"Ground Mount Gamma (100 kW)",397.6,365.6
+2024-02-20,"Rooftop Alpha (50 kW)",203.8,184.4
+2024-02-21,"Carport Beta (75 kW)",315.4,318.6
+2024-02-21,"Ground Mount Gamma (100 kW)",421.1,302.1
+2024-02-21,"Rooftop Alpha (50 kW)",205,185.7
+2024-02-22,"Carport Beta (75 kW)",301,304.1
+2024-02-22,"Ground Mount Gamma (100 kW)",423.5,423.1
+2024-02-22,"Rooftop Alpha (50 kW)",206.9,72.2
+2024-02-23,"Carport Beta (75 kW)",322.2,329.4
+2024-02-23,"Ground Mount Gamma (100 kW)",421.4,412.7
+2024-02-23,"Rooftop Alpha (50 kW)",214.3,132.7
+2024-02-24,"Carport Beta (75 kW)",305,317.2
+2024-02-24,"Ground Mount Gamma (100 kW)",432.2,450.3
+2024-02-24,"Rooftop Alpha (50 kW)",202.7,193.1
+2024-02-25,"Carport Beta (75 kW)",327.4,311.6
+2024-02-25,"Ground Mount Gamma (100 kW)",416,430.6
+2024-02-25,"Rooftop Alpha (50 kW)",215.7,123.7
+2024-02-26,"Carport Beta (75 kW)",307.7,302.4
+2024-02-26,"Ground Mount Gamma (100 kW)",414.4,370.2
+2024-02-26,"Rooftop Alpha (50 kW)",215.5,193.8
+2024-02-27,"Carport Beta (75 kW)",312.2,286.4
+2024-02-27,"Ground Mount Gamma (100 kW)",415.5,370.4
+2024-02-27,"Rooftop Alpha (50 kW)",207.8,199.9
+2024-02-28,"Carport Beta (75 kW)",328.7,241.5
+2024-02-28,"Ground Mount Gamma (100 kW)",412.1,428.6
+2024-02-28,"Rooftop Alpha (50 kW)",210.3,220.1
+2024-02-29,"Carport Beta (75 kW)",315.3,327.2
+2024-02-29,"Ground Mount Gamma (100 kW)",417.4,379.2
+2024-02-29,"Rooftop Alpha (50 kW)",215.6,219.5
+2024-03-01,"Carport Beta (75 kW)",321.9,124.5
+2024-03-01,"Ground Mount Gamma (100 kW)",417.5,432.1
+2024-03-01,"Rooftop Alpha (50 kW)",219.3,213.2
+2024-03-02,"Carport Beta (75 kW)",324.4,183.4
+2024-03-02,"Ground Mount Gamma (100 kW)",445.1,404.4
+2024-03-02,"Rooftop Alpha (50 kW)",225.6,201.3
+2024-03-03,"Carport Beta (75 kW)",330.1,294.2
+2024-03-03,"Ground Mount Gamma (100 kW)",423.5,394.2
+2024-03-03,"Rooftop Alpha (50 kW)",222.7,213.6
+2024-03-04,"Carport Beta (75 kW)",330.7,247.2
+2024-03-04,"Ground Mount Gamma (100 kW)",423.9,231.6
+2024-03-04,"Rooftop Alpha (50 kW)",220.3,206.6
+2024-03-05,"Carport Beta (75 kW)",318.5,307.8
+2024-03-05,"Ground Mount Gamma (100 kW)",454,430.5
+2024-03-05,"Rooftop Alpha (50 kW)",226.2,225.6
+2024-03-06,"Carport Beta (75 kW)",323.1,312.6
+2024-03-06,"Ground Mount Gamma (100 kW)",450.3,443.2
+2024-03-06,"Rooftop Alpha (50 kW)",215.5,208.5
+2024-03-07,"Carport Beta (75 kW)",327.5,205.7
+2024-03-07,"Ground Mount Gamma (100 kW)",443.9,409.2
+2024-03-07,"Rooftop Alpha (50 kW)",217.9,210.8
+2024-03-08,"Carport Beta (75 kW)",331,306.4
+2024-03-08,"Ground Mount Gamma (100 kW)",437.8,279.7
+2024-03-08,"Rooftop Alpha (50 kW)",228.7,58.2
+2024-03-09,"Carport Beta (75 kW)",341.4,340.3
+2024-03-09,"Ground Mount Gamma (100 kW)",433.5,402.4
+2024-03-09,"Rooftop Alpha (50 kW)",227.2,217.2
+2024-03-10,"Carport Beta (75 kW)",327,318.8
+2024-03-10,"Ground Mount Gamma (100 kW)",461.9,470.3
+2024-03-10,"Rooftop Alpha (50 kW)",220,196.7
+2024-03-11,"Carport Beta (75 kW)",336.5,320.8
+2024-03-11,"Ground Mount Gamma (100 kW)",458.9,88.8
+2024-03-11,"Rooftop Alpha (50 kW)",217.4,225.7
+2024-03-12,"Carport Beta (75 kW)",327,335.6
+2024-03-12,"Ground Mount Gamma (100 kW)",464.1,450.2
+2024-03-12,"Rooftop Alpha (50 kW)",220,194.2
+2024-03-13,"Carport Beta (75 kW)",339.9,305.6
+2024-03-13,"Ground Mount Gamma (100 kW)",437.2,398.4
+2024-03-13,"Rooftop Alpha (50 kW)",222.3,211.3
+2024-03-14,"Carport Beta (75 kW)",350.6,327.4
+2024-03-14,"Ground Mount Gamma (100 kW)",447.7,445.1
+2024-03-14,"Rooftop Alpha (50 kW)",228,133.2
+2024-03-15,"Carport Beta (75 kW)",343.1,345.1
+2024-03-15,"Ground Mount Gamma (100 kW)",454.9,433.1
+2024-03-15,"Rooftop Alpha (50 kW)",223.7,200.6
+2024-03-16,"Carport Beta (75 kW)",337.9,328.8
+2024-03-16,"Ground Mount Gamma (100 kW)",454.1,108.9
+2024-03-16,"Rooftop Alpha (50 kW)",234.2,225.3
+2024-03-17,"Carport Beta (75 kW)",357.3,325.3
+2024-03-17,"Ground Mount Gamma (100 kW)",475.7,454.4
+2024-03-17,"Rooftop Alpha (50 kW)",221.9,219.8
+2024-03-18,"Carport Beta (75 kW)",337.5,336.1
+2024-03-18,"Ground Mount Gamma (100 kW)",451.8,469.2
+2024-03-18,"Rooftop Alpha (50 kW)",229.6,238
+2024-03-19,"Carport Beta (75 kW)",342.8,307.8
+2024-03-19,"Ground Mount Gamma (100 kW)",460.6,441.5
+2024-03-19,"Rooftop Alpha (50 kW)",233.1,219.5
+2024-03-20,"Carport Beta (75 kW)",361.3,335.7
+2024-03-20,"Ground Mount Gamma (100 kW)",449.7,443.8
+2024-03-20,"Rooftop Alpha (50 kW)",224.4,230.1
+2024-03-21,"Carport Beta (75 kW)",358.9,195.2
+2024-03-21,"Ground Mount Gamma (100 kW)",484.3,473.3
+2024-03-21,"Rooftop Alpha (50 kW)",236.1,219.8
+2024-03-22,"Carport Beta (75 kW)",341.8,186
+2024-03-22,"Ground Mount Gamma (100 kW)",483.7,481.9
+2024-03-22,"Rooftop Alpha (50 kW)",229,72.4
+2024-03-23,"Carport Beta (75 kW)",363.4,326.5
+2024-03-23,"Ground Mount Gamma (100 kW)",490.1,510
+2024-03-23,"Rooftop Alpha (50 kW)",233.6,211.2
+2024-03-24,"Carport Beta (75 kW)",365.9,348
+2024-03-24,"Ground Mount Gamma (100 kW)",478.7,424
+2024-03-24,"Rooftop Alpha (50 kW)",239.9,244.1
+2024-03-25,"Carport Beta (75 kW)",346.1,339.7
+2024-03-25,"Ground Mount Gamma (100 kW)",461.6,431.8
+2024-03-25,"Rooftop Alpha (50 kW)",243.3,143.1
+2024-03-26,"Carport Beta (75 kW)",347.9,84.1
+2024-03-26,"Ground Mount Gamma (100 kW)",494,502.3
+2024-03-26,"Rooftop Alpha (50 kW)",240.1,213.8
+2024-03-27,"Carport Beta (75 kW)",360.9,348.3
+2024-03-27,"Ground Mount Gamma (100 kW)",465,426.1
+2024-03-27,"Rooftop Alpha (50 kW)",234.6,130.5
+2024-03-28,"Carport Beta (75 kW)",348.1,108.4
+2024-03-28,"Ground Mount Gamma (100 kW)",483.2,457.6
+2024-03-28,"Rooftop Alpha (50 kW)",232.6,130.9
+2024-03-29,"Carport Beta (75 kW)",361.9,324.1
+2024-03-29,"Ground Mount Gamma (100 kW)",470.4,476.8
+2024-03-29,"Rooftop Alpha (50 kW)",233.4,233
+2024-03-30,"Carport Beta (75 kW)",349,335
+2024-03-30,"Ground Mount Gamma (100 kW)",503.3,444.8
+2024-03-30,"Rooftop Alpha (50 kW)",238.4,163.4
+2024-03-31,"Carport Beta (75 kW)",374.7,385.9
+2024-03-31,"Ground Mount Gamma (100 kW)",493.9,489.1
+2024-03-31,"Rooftop Alpha (50 kW)",246.3,233.8
+2024-04-01,"Carport Beta (75 kW)",353,336.8
+2024-04-01,"Ground Mount Gamma (100 kW)",478.1,467.5
+2024-04-01,"Rooftop Alpha (50 kW)",234.1,218.2
+2024-04-02,"Carport Beta (75 kW)",376.4,348.9
+2024-04-02,"Ground Mount Gamma (100 kW)",501,491.4
+2024-04-02,"Rooftop Alpha (50 kW)",238.9,172.4
+2024-04-03,"Carport Beta (75 kW)",369.3,249.3
+2024-04-03,"Ground Mount Gamma (100 kW)",486,476.7
+2024-04-03,"Rooftop Alpha (50 kW)",254,252.6
+2024-04-04,"Carport Beta (75 kW)",369.3,380.5
+2024-04-04,"Ground Mount Gamma (100 kW)",507.7,509.2
+2024-04-04,"Rooftop Alpha (50 kW)",254.6,262.8
+2024-04-05,"Carport Beta (75 kW)",356.4,322.6
+2024-04-05,"Ground Mount Gamma (100 kW)",479.7,483.5
+2024-04-05,"Rooftop Alpha (50 kW)",251.7,257.7
+2024-04-06,"Carport Beta (75 kW)",373.4,348.7
+2024-04-06,"Ground Mount Gamma (100 kW)",511.7,457.2
+2024-04-06,"Rooftop Alpha (50 kW)",244.5,231.5
+2024-04-07,"Carport Beta (75 kW)",379.5,236.1
+2024-04-07,"Ground Mount Gamma (100 kW)",513.2,515.2
+2024-04-07,"Rooftop Alpha (50 kW)",248.9,222.4
+2024-04-08,"Carport Beta (75 kW)",366.2,339.9
+2024-04-08,"Ground Mount Gamma (100 kW)",513.1,526.2
+2024-04-08,"Rooftop Alpha (50 kW)",254.3,259.6
+2024-04-09,"Carport Beta (75 kW)",384.6,366.2
+2024-04-09,"Ground Mount Gamma (100 kW)",501.6,502.1
+2024-04-09,"Rooftop Alpha (50 kW)",252.6,225.4
+2024-04-10,"Carport Beta (75 kW)",374,360.1
+2024-04-10,"Ground Mount Gamma (100 kW)",515,512.3
+2024-04-10,"Rooftop Alpha (50 kW)",253.5,228
+2024-04-11,"Carport Beta (75 kW)",379.5,349.5
+2024-04-11,"Ground Mount Gamma (100 kW)",520.9,544.9
+2024-04-11,"Rooftop Alpha (50 kW)",246,48
+2024-04-12,"Carport Beta (75 kW)",368.1,227.9
+2024-04-12,"Ground Mount Gamma (100 kW)",507.5,518.1
+2024-04-12,"Rooftop Alpha (50 kW)",246.7,230.5
+2024-04-13,"Carport Beta (75 kW)",370.5,330.4
+2024-04-13,"Ground Mount Gamma (100 kW)",502.1,522.7
+2024-04-13,"Rooftop Alpha (50 kW)",250.9,228.8
+2024-04-14,"Carport Beta (75 kW)",370.7,348.9
+2024-04-14,"Ground Mount Gamma (100 kW)",495.2,458.9
+2024-04-14,"Rooftop Alpha (50 kW)",262.9,249
+2024-04-15,"Carport Beta (75 kW)",392.2,410.7
+2024-04-15,"Ground Mount Gamma (100 kW)",525,368.7
+2024-04-15,"Rooftop Alpha (50 kW)",264.1,271.1
+2024-04-16,"Carport Beta (75 kW)",371.2,258
+2024-04-16,"Ground Mount Gamma (100 kW)",499.9,442.7
+2024-04-16,"Rooftop Alpha (50 kW)",260.3,244.5
+2024-04-17,"Carport Beta (75 kW)",377.1,387.7
+2024-04-17,"Ground Mount Gamma (100 kW)",530.5,506.9
+2024-04-17,"Rooftop Alpha (50 kW)",260.9,229.7
+2024-04-18,"Carport Beta (75 kW)",394.5,354.7
+2024-04-18,"Ground Mount Gamma (100 kW)",520.2,485.5
+2024-04-18,"Rooftop Alpha (50 kW)",257.6,163.1
+2024-04-19,"Carport Beta (75 kW)",380.1,347
+2024-04-19,"Ground Mount Gamma (100 kW)",501.1,164
+2024-04-19,"Rooftop Alpha (50 kW)",247.3,257.6
+2024-04-20,"Carport Beta (75 kW)",398.8,400.4
+2024-04-20,"Ground Mount Gamma (100 kW)",535.3,487.6
+2024-04-20,"Rooftop Alpha (50 kW)",260.5,251
+2024-04-21,"Carport Beta (75 kW)",374.1,346.4
+2024-04-21,"Ground Mount Gamma (100 kW)",503.6,222.3
+2024-04-21,"Rooftop Alpha (50 kW)",265.9,255
+2024-04-22,"Carport Beta (75 kW)",384.5,270
+2024-04-22,"Ground Mount Gamma (100 kW)",538.2,230.6
+2024-04-22,"Rooftop Alpha (50 kW)",264.9,260
+2024-04-23,"Carport Beta (75 kW)",384.5,233.1
+2024-04-23,"Ground Mount Gamma (100 kW)",527,480.8
+2024-04-23,"Rooftop Alpha (50 kW)",259.3,268.1
+2024-04-24,"Carport Beta (75 kW)",379.9,217.4
+2024-04-24,"Ground Mount Gamma (100 kW)",502.2,470.9
+2024-04-24,"Rooftop Alpha (50 kW)",261.7,238
+2024-04-25,"Carport Beta (75 kW)",388.5,373
+2024-04-25,"Ground Mount Gamma (100 kW)",520.1,498.4
+2024-04-25,"Rooftop Alpha (50 kW)",262.4,266
+2024-04-26,"Carport Beta (75 kW)",392.4,365.7
+2024-04-26,"Ground Mount Gamma (100 kW)",512.2,268
+2024-04-26,"Rooftop Alpha (50 kW)",251.9,231.6
+2024-04-27,"Carport Beta (75 kW)",380.2,392.1
+2024-04-27,"Ground Mount Gamma (100 kW)",531,543.6
+2024-04-27,"Rooftop Alpha (50 kW)",259.9,254.2
+2024-04-28,"Carport Beta (75 kW)",410.9,166.2
+2024-04-28,"Ground Mount Gamma (100 kW)",545.1,559
+2024-04-28,"Rooftop Alpha (50 kW)",266,272.1
+2024-04-29,"Carport Beta (75 kW)",409.4,107.8
+2024-04-29,"Ground Mount Gamma (100 kW)",531.8,508.8
+2024-04-29,"Rooftop Alpha (50 kW)",271.2,244.8
+2024-04-30,"Carport Beta (75 kW)",412.6,364.1
+2024-04-30,"Ground Mount Gamma (100 kW)",514.7,517
+2024-04-30,"Rooftop Alpha (50 kW)",261.9,270.4
+2024-05-01,"Carport Beta (75 kW)",387.8,376
+2024-05-01,"Ground Mount Gamma (100 kW)",525.4,347.7
+2024-05-01,"Rooftop Alpha (50 kW)",263.6,252.1
+2024-05-02,"Carport Beta (75 kW)",384.6,289.2
+2024-05-02,"Ground Mount Gamma (100 kW)",513.3,517.1
+2024-05-02,"Rooftop Alpha (50 kW)",267.7,192.2
+2024-05-03,"Carport Beta (75 kW)",388.7,342.2
+2024-05-03,"Ground Mount Gamma (100 kW)",517.1,273.2
+2024-05-03,"Rooftop Alpha (50 kW)",268.7,154.4
+2024-05-04,"Carport Beta (75 kW)",396.6,387.2
+2024-05-04,"Ground Mount Gamma (100 kW)",544.4,571.2
+2024-05-04,"Rooftop Alpha (50 kW)",272.1,243.3
+2024-05-05,"Carport Beta (75 kW)",403.4,385.7
+2024-05-05,"Ground Mount Gamma (100 kW)",521.7,546
+2024-05-05,"Rooftop Alpha (50 kW)",265.7,236
+2024-05-06,"Carport Beta (75 kW)",417,410.6
+2024-05-06,"Ground Mount Gamma (100 kW)",556.9,543.7
+2024-05-06,"Rooftop Alpha (50 kW)",277.6,290.5
+2024-05-07,"Carport Beta (75 kW)",408.1,219.7
+2024-05-07,"Ground Mount Gamma (100 kW)",519.4,538
+2024-05-07,"Rooftop Alpha (50 kW)",279.1,268.6
+2024-05-08,"Carport Beta (75 kW)",404.1,400.4
+2024-05-08,"Ground Mount Gamma (100 kW)",559.9,585.2
+2024-05-08,"Rooftop Alpha (50 kW)",264,270.3
+2024-05-09,"Carport Beta (75 kW)",392,366.5
+2024-05-09,"Ground Mount Gamma (100 kW)",540.3,564
+2024-05-09,"Rooftop Alpha (50 kW)",275.2,118.8
+2024-05-10,"Carport Beta (75 kW)",420.8,381.6
+2024-05-10,"Ground Mount Gamma (100 kW)",550.5,540.6
+2024-05-10,"Rooftop Alpha (50 kW)",279.6,269.3
+2024-05-11,"Carport Beta (75 kW)",402.2,368.4
+2024-05-11,"Ground Mount Gamma (100 kW)",552.6,314.3
+2024-05-11,"Rooftop Alpha (50 kW)",273.7,249.4
+2024-05-12,"Carport Beta (75 kW)",403.7,181.2
+2024-05-12,"Ground Mount Gamma (100 kW)",555.5,495.7
+2024-05-12,"Rooftop Alpha (50 kW)",274.8,277.3
+2024-05-13,"Carport Beta (75 kW)",412.8,259.5
+2024-05-13,"Ground Mount Gamma (100 kW)",561.6,533.1
+2024-05-13,"Rooftop Alpha (50 kW)",282.1,168.5
+2024-05-14,"Carport Beta (75 kW)",417,378.1
+2024-05-14,"Ground Mount Gamma (100 kW)",555.4,490
+2024-05-14,"Rooftop Alpha (50 kW)",280.7,254.9
+2024-05-15,"Carport Beta (75 kW)",400.4,379.8
+2024-05-15,"Ground Mount Gamma (100 kW)",536,398
+2024-05-15,"Rooftop Alpha (50 kW)",275.3,243.8
+2024-05-16,"Carport Beta (75 kW)",414.1,208.2
+2024-05-16,"Ground Mount Gamma (100 kW)",547.9,551.3
+2024-05-16,"Rooftop Alpha (50 kW)",281.1,195.3
+2024-05-17,"Carport Beta (75 kW)",423.2,397.6
+2024-05-17,"Ground Mount Gamma (100 kW)",560.5,569.9
+2024-05-17,"Rooftop Alpha (50 kW)",266.1,109.3
+2024-05-18,"Carport Beta (75 kW)",429.1,227.2
+2024-05-18,"Ground Mount Gamma (100 kW)",528.2,396.1
+2024-05-18,"Rooftop Alpha (50 kW)",280.9,272
+2024-05-19,"Carport Beta (75 kW)",397.2,369.3
+2024-05-19,"Ground Mount Gamma (100 kW)",532.9,543
+2024-05-19,"Rooftop Alpha (50 kW)",278.3,283.3
+2024-05-20,"Carport Beta (75 kW)",424.8,383.4
+2024-05-20,"Ground Mount Gamma (100 kW)",564.4,546.3
+2024-05-20,"Rooftop Alpha (50 kW)",268.3,241.4
+2024-05-21,"Carport Beta (75 kW)",405.1,388
+2024-05-21,"Ground Mount Gamma (100 kW)",544,561.5
+2024-05-21,"Rooftop Alpha (50 kW)",267.3,275.8
+2024-05-22,"Carport Beta (75 kW)",402.7,217.1
+2024-05-22,"Ground Mount Gamma (100 kW)",547.3,571.1
+2024-05-22,"Rooftop Alpha (50 kW)",276.2,270.1
+2024-05-23,"Carport Beta (75 kW)",422.5,375.7
+2024-05-23,"Ground Mount Gamma (100 kW)",561.6,411.8
+2024-05-23,"Rooftop Alpha (50 kW)",283.7,182.3
+2024-05-24,"Carport Beta (75 kW)",409.4,387.6
+2024-05-24,"Ground Mount Gamma (100 kW)",571.2,564.4
+2024-05-24,"Rooftop Alpha (50 kW)",283.1,292.6
+2024-05-25,"Carport Beta (75 kW)",428.4,438.3
+2024-05-25,"Ground Mount Gamma (100 kW)",537.6,381.9
+2024-05-25,"Rooftop Alpha (50 kW)",285.5,151.9
+2024-05-26,"Carport Beta (75 kW)",423.1,400.9
+2024-05-26,"Ground Mount Gamma (100 kW)",547.2,517.5
+2024-05-26,"Rooftop Alpha (50 kW)",271.5,245.9
+2024-05-27,"Carport Beta (75 kW)",419.8,402
+2024-05-27,"Ground Mount Gamma (100 kW)",567.9,523.8
+2024-05-27,"Rooftop Alpha (50 kW)",289.2,292.3
+2024-05-28,"Carport Beta (75 kW)",403.7,263.4
+2024-05-28,"Ground Mount Gamma (100 kW)",539.3,277.7
+2024-05-28,"Rooftop Alpha (50 kW)",275.1,140.9
+2024-05-29,"Carport Beta (75 kW)",413,417.9
+2024-05-29,"Ground Mount Gamma (100 kW)",552.8,519.5
+2024-05-29,"Rooftop Alpha (50 kW)",272.2,253.7
+2024-05-30,"Carport Beta (75 kW)",405.1,389.3
+2024-05-30,"Ground Mount Gamma (100 kW)",578.7,530.1
+2024-05-30,"Rooftop Alpha (50 kW)",285.4,276.3
+2024-05-31,"Carport Beta (75 kW)",434.8,118.5
+2024-05-31,"Ground Mount Gamma (100 kW)",549.6,513
+2024-05-31,"Rooftop Alpha (50 kW)",277,259.5
+2024-06-01,"Carport Beta (75 kW)",409.5,380.9
+2024-06-01,"Ground Mount Gamma (100 kW)",565.8,525.1
+2024-06-01,"Rooftop Alpha (50 kW)",287.6,260.6
+2024-06-02,"Carport Beta (75 kW)",407.4,261.9
+2024-06-02,"Ground Mount Gamma (100 kW)",549.4,510.9
+2024-06-02,"Rooftop Alpha (50 kW)",279.3,258.4
+2024-06-03,"Carport Beta (75 kW)",418.5,423.2
+2024-06-03,"Ground Mount Gamma (100 kW)",586.7,591.4
+2024-06-03,"Rooftop Alpha (50 kW)",286.1,268.8
+2024-06-04,"Carport Beta (75 kW)",430.3,258.5
+2024-06-04,"Ground Mount Gamma (100 kW)",564.9,537.5
+2024-06-04,"Rooftop Alpha (50 kW)",288.7,282.4
+2024-06-05,"Carport Beta (75 kW)",437.5,408.3
+2024-06-05,"Ground Mount Gamma (100 kW)",580,578
+2024-06-05,"Rooftop Alpha (50 kW)",275.7,152.4
+2024-06-06,"Carport Beta (75 kW)",416,430.7
+2024-06-06,"Ground Mount Gamma (100 kW)",572.5,223
+2024-06-06,"Rooftop Alpha (50 kW)",272.5,283
+2024-06-07,"Carport Beta (75 kW)",421.5,436.5
+2024-06-07,"Ground Mount Gamma (100 kW)",582.9,563.1
+2024-06-07,"Rooftop Alpha (50 kW)",275.2,281.2
+2024-06-08,"Carport Beta (75 kW)",429.8,437.2
+2024-06-08,"Ground Mount Gamma (100 kW)",576.1,144.2
+2024-06-08,"Rooftop Alpha (50 kW)",287.9,259.6
+2024-06-09,"Carport Beta (75 kW)",428.4,402.7
+2024-06-09,"Ground Mount Gamma (100 kW)",580.9,567.6
+2024-06-09,"Rooftop Alpha (50 kW)",294,161.6
+2024-06-10,"Carport Beta (75 kW)",411,408.9
+2024-06-10,"Ground Mount Gamma (100 kW)",552.8,356.8
+2024-06-10,"Rooftop Alpha (50 kW)",285.6,284.8
+2024-06-11,"Carport Beta (75 kW)",426.2,394.5
+2024-06-11,"Ground Mount Gamma (100 kW)",559.2,528.9
+2024-06-11,"Rooftop Alpha (50 kW)",287.1,254.2
+2024-06-12,"Carport Beta (75 kW)",442.9,461.9
+2024-06-12,"Ground Mount Gamma (100 kW)",559.2,584
+2024-06-12,"Rooftop Alpha (50 kW)",278.1,288.2
+2024-06-13,"Carport Beta (75 kW)",419.1,377.5
+2024-06-13,"Ground Mount Gamma (100 kW)",564.1,545.5
+2024-06-13,"Rooftop Alpha (50 kW)",286.1,99.8
+2024-06-14,"Carport Beta (75 kW)",434.5,406.2
+2024-06-14,"Ground Mount Gamma (100 kW)",560.3,496.6
+2024-06-14,"Rooftop Alpha (50 kW)",278.3,257.5
+2024-06-15,"Carport Beta (75 kW)",443,437.2
+2024-06-15,"Ground Mount Gamma (100 kW)",588,578.1
+2024-06-15,"Rooftop Alpha (50 kW)",284.8,171
+2024-06-16,"Carport Beta (75 kW)",413.6,216.2
+2024-06-16,"Ground Mount Gamma (100 kW)",583.1,594.1
+2024-06-16,"Rooftop Alpha (50 kW)",282,195.1
+2024-06-17,"Carport Beta (75 kW)",417.1,432.9
+2024-06-17,"Ground Mount Gamma (100 kW)",589.1,585.8
+2024-06-17,"Rooftop Alpha (50 kW)",277.6,281.7
+2024-06-18,"Carport Beta (75 kW)",416.2,408.2
+2024-06-18,"Ground Mount Gamma (100 kW)",584.1,529.6
+2024-06-18,"Rooftop Alpha (50 kW)",279.5,276.7
+2024-06-19,"Carport Beta (75 kW)",427.2,402.1
+2024-06-19,"Ground Mount Gamma (100 kW)",583.9,609.7
+2024-06-19,"Rooftop Alpha (50 kW)",292.2,278.2
+2024-06-20,"Carport Beta (75 kW)",446.9,439.5
+2024-06-20,"Ground Mount Gamma (100 kW)",596.4,618.5
+2024-06-20,"Rooftop Alpha (50 kW)",285.1,255.5
+2024-06-21,"Carport Beta (75 kW)",426.3,418.9
+2024-06-21,"Ground Mount Gamma (100 kW)",559.1,504.7
+2024-06-21,"Rooftop Alpha (50 kW)",285.4,251.3
+2024-06-22,"Carport Beta (75 kW)",439.1,452.2
+2024-06-22,"Ground Mount Gamma (100 kW)",587.4,595.7
+2024-06-22,"Rooftop Alpha (50 kW)",287.1,278.6
+2024-06-23,"Carport Beta (75 kW)",438.6,238.7
+2024-06-23,"Ground Mount Gamma (100 kW)",596.4,619.1
+2024-06-23,"Rooftop Alpha (50 kW)",286.1,277.3
+2024-06-24,"Carport Beta (75 kW)",415.5,426.8
+2024-06-24,"Ground Mount Gamma (100 kW)",565.1,559.3
+2024-06-24,"Rooftop Alpha (50 kW)",279.6,51.2
+2024-06-25,"Carport Beta (75 kW)",447.6,278.8
+2024-06-25,"Ground Mount Gamma (100 kW)",557.2,344.9
+2024-06-25,"Rooftop Alpha (50 kW)",295.6,296.2
+2024-06-26,"Carport Beta (75 kW)",433.6,423.5
+2024-06-26,"Ground Mount Gamma (100 kW)",564.1,540.4
+2024-06-26,"Rooftop Alpha (50 kW)",290.4,303
+2024-06-27,"Carport Beta (75 kW)",439.5,442.5
+2024-06-27,"Ground Mount Gamma (100 kW)",569.2,506.8
+2024-06-27,"Rooftop Alpha (50 kW)",295.3,285.9
+2024-06-28,"Carport Beta (75 kW)",417.2,394.9
+2024-06-28,"Ground Mount Gamma (100 kW)",598.1,315.5
+2024-06-28,"Rooftop Alpha (50 kW)",294.9,268.3
+2024-06-29,"Carport Beta (75 kW)",447.6,404.7
+2024-06-29,"Ground Mount Gamma (100 kW)",600.2,568.1
+2024-06-29,"Rooftop Alpha (50 kW)",298.5,291.2
+2024-06-30,"Carport Beta (75 kW)",417.2,434.2
+2024-06-30,"Ground Mount Gamma (100 kW)",575,431.8
+2024-06-30,"Rooftop Alpha (50 kW)",297.3,63
