@@ -75,22 +75,6 @@ $$R^2 = 1 - \frac{SS_{\text{res}}}{SS_{\text{tot}}} = 1 - \frac{\sum (Y_i - \hat
 
 ---
 
-## 🎓 University Viva / Oral Exam Q&A
-
-### Q1: Why did you report both Pearson and Spearman correlation coefficients?
-> **Answer**: Pearson's $r$ assumes bivariate normality and measures linear association. However, renewable energy generation is susceptible to non-linear dips caused by intermittent cloud cover, rain, and inverter power clipping. Spearman's $\rho$ evaluates monotonic relationships based on rank orders, providing a robust estimate that does not rely on normality assumptions and is immune to severe weather outliers.
-
-### Q2: What does the regression slope $\hat{\beta}_1$ represent physically?
-> **Answer**: The slope $\hat{\beta}_1$ represents the empirical solar power delivery factor per unit of expected irradiance. An ideal PV array without loss would have $\hat{\beta}_1 = 1.0$. In our dataset, $\hat{\beta}_1 \approx 0.906$, demonstrating that approximately $90.6\%$ of theoretical irradiance energy is converted into grid power, reflecting a $\approx 9.4\%$ combined loss due to thermal derating, inverter clipping, and AC/DC resistive dissipation.
-
-### Q3: When should you prefer the Wilcoxon Signed-Rank test over the Paired $t$-test?
-> **Answer**: The paired $t$-test requires that the differences ($d = \text{Actual} - \text{Expected}$) be normally distributed. When weather dropouts or inverter trips skew the error distribution, the Shapiro-Wilk test rejects normality ($p < 0.05$). Under such violations, the Wilcoxon Signed-Rank test is methodologically superior because it does not assume normality.
-
-### Q4: How does Tukey's HSD test control the Family-Wise Error Rate (FWER)?
-> **Answer**: Running multiple independent two-sample $t$-tests across 3 installations inflates the chance of a false positive (Type I error) to $1 - (1 - 0.05)^3 \approx 14.3\%$. Tukey's Honest Significant Difference test uses the Studentized Range distribution ($q$) to simultaneously evaluate all pairwise group differences while guaranteeing the overall Family-Wise Error Rate does not exceed $\alpha = 0.05$.
-
----
-
 ## 📁 Project Structure
 
 ```
